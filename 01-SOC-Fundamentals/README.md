@@ -17,7 +17,7 @@ The notes are based on my learning through **LetsDefend SOC Fundamentals**, with
 
 | # | Topic | Status |
 |---|---|---|
-| 1 | [Introduction to SOC](introduction-to-SOC.md) | Completed |
+| 1 | [Introduction to SOC](Introduction-to-SOC.md) | Completed |
 | 2 | [SOC Types and Roles](soc-types-and-roles.md) | In progress |
 | 3 | [SOC Analyst and Their Responsibilities](soc-analyst-responsibilities.md) | Planned |
 | 4 | [SIEM and Analyst Relationship](siem-and-analyst-relationship.md) | Planned |
